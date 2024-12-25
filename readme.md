@@ -20,5 +20,6 @@
 6. Убеждаемся в том, что установлены все пакеты с помощью `pip install typer requests`
 <image src = pip.png>
 7. Таким образом была создана базовая структура пакета, которую можно заполнить модулями из лабораторных работ 7-9.
+
 ## Источники:
 [evil-teacher](https://evil-teacher.on-fleek.app/prog_pm/term1/lab09/)  
